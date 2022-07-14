@@ -38,6 +38,10 @@ in computing the final similarity score.
 
 i used similarity of the cosine to find similarity. and used score reason it is independent magnititude and also relatively very easy or fast to calculate.
 
+## Graphs:
+
+This graps shows that mostly which movies are sell so they shows how judge that movies rating.  
+
 ## Time To Make A Recommendation
 
 ## Steps
