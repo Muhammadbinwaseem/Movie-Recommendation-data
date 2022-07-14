@@ -1,5 +1,15 @@
 # Movie-Recommendation-data:
 
+## File Intro:
+
+THe data set is about movies sale and purchase and credit of the movie. the sales man is to prefreance this data. and to decision about on 
+the basis of this data. i download data set on kaggel and then apply algorithems. data set is greater than 25 mb so github not appload 
+the file. i attached the kaggel data set link bellow.
+
+## Link:
+
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
 ## Introduction:
 
 This system help users discover movie. the salemen of company knows which movie user are prefre.an of diffrent algorithem that combine to
